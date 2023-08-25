@@ -13,7 +13,9 @@ The Earth's biodiversity is vast, the data captured to describe it are minimal i
 ## History
 _Our old website is now a read-only resource available at [https://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
-{How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data. Potentially linked to a shared history at sfg.org if we get that done.}
+The original Phasmida species file data was transferred from a PDF catalog in 2005, and was the second taxonomic group after Orthoptera.  The database was built to be _a growing and evolving thing_ that continues past the careers of those who have responsibility for it from time to time. This database was inputted by David Eades and his team, from Daniel Otte and Paul Brock's 2003 CD entitled Phasmida Species File: A Catalog of the Stick and Leaf Insects of the World and by reference to changes made in the 2005 book of the same title by Otte & Brock.  It has been subsequently updated by Paul, who will continue to maintain it. Someday Paul Brock will relinquish the responsibility, and it will be up to a committee of the Orthopterists' Society to select a successor/s. In addition to the matter of continuity, it seems clear that the migration of the taxonomic data management to TaxonWorks will provide the opportunity for an eventual handoff.
+
+Members of the Orthopterists' Society are invited to participate in making this website and database better. Participation can be at various levels:
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
 
@@ -29,15 +31,41 @@ Or Funding needed to publish our latest information ... or address data gaps
 - An organization other entity
 
 ## Contributors
-_A \* denotes a past contributor, now inactive._
 |name|role|
-|----|----|
-| First name Last Name | Author |
-| First name Last Name\* | Author |
-| First name Last Name | Editor |
-| First name Last Name | TaxonWorks Project Manager |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
+|----|----| 
+| Paul D. Brock | Author |  
+| Thies Büescher | Author |  
+| Ed Baker | Author |  
+| David C. Eades\* | Developer |
+| Daniel Otte\* | Major contributor |
+
+### Expertise by Geographic Region  
+
+| Continent | Country/ies | Person |  
+|:----------|:----------|:----------|  
+| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois |  
+| Africa | Southern | Paul D. Brock |  
+| America | northern | Frank Hennemann & Oskar Conle |  
+| America | southern | Frank Hennemann & Oskar Conle |  
+| Asia, temperate | temperate | TBA |  
+|  | China | Ho Wai Chun |  
+|  | Hong Kong |  Ho Wai Chun |  
+|  | Taiwan | Yamai Shi-Fu Huang |  
+| Asia, tropical | |  
+| | Borneo & Sumatra | Francis Seow-Choen |  
+| | India | Tushar Mukherjee |  
+| | Indochinese region (Vietnam, Cambodia & Laos) | Joachim Bresseel |  
+| | Peninsular Malaysia & Singapore | Paul D. Brock |  
+| | Philippines | Orlando Eusebio |  
+| | Sri Lanka | Frank Hennemann |  
+| | Sulawesi  | Frank Hennemann |  
+| | Thailand & Myanmar | Thies Büscher |  
+| Australasia ||  Paul D. Brock |  
+| Europe || Paul D. Brock |  
+| Pacific ||  TBA |  
+| World Phylliidae || Royce Cumming |
+
+_A \* denotes a past contributor, now inactive._
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
