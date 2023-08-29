@@ -3,7 +3,7 @@
 ---
 
 # {{ app:project_name }}
-The Phasmida Species File group works to build a comprehensive source for knowledge about the world’s phasmids, or stick insects. Information found here includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for aphids of the world. Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
+The Phasmida Species File group works to build a comprehensive source for knowledge about the world’s phasmids, or stick and leaf insects. Information found here includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for phasmids of the world. Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
