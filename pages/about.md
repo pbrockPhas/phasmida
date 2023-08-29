@@ -37,7 +37,7 @@ Or Funding needed to publish our latest information ... or address data gaps
 | Thies H. Büescher | Assistant Editor | Christian-Albrechts-Universität, Kiel, Germany |
 | Ed Baker | Assistant Editor | The Natural History Museum, London, University of York |
 | David C. Eades\* | Founder of Species File Group | Illinois Natural History Survey |
-| Daniel Otte\* | Major contributor |
+| Daniel Otte\* | Major contributor | Academy of Natural Sciences of Philadelphia |
 
 ### Expertise by Geographic Region  
 
