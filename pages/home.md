@@ -30,7 +30,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             <td>
                 <img alt="Phyllium giganteum"
                     src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Phyllium_giganteum.jpg"
-                    style="border-style: none;"><br>
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Phyllium giganteum</em>
                 </div>
@@ -38,7 +38,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             <td>
                 <img alt="Agathemera maculafulgens"
                     src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Agathemera_maculafulgens.jpg"
-                    style="border-style: none;"><br>
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Agathemera maculafulgens</em>
                 </div>
@@ -46,7 +46,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             <td>
                 <img alt="Dryococelus australis"
                     src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Dryococelus_australis.jpg"
-                    style="border-style: none;"><br>
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Dryococelus australis</em>
                 </div>
