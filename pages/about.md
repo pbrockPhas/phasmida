@@ -2,13 +2,13 @@
 # See project.yml for variables.
 ---
 # About
-_{tag line- e.g. "Building community around and gathering knowledge about the world’s stoneflies"}_
+Building community around and gathering knowledge about the world’s stick and leaf insects."}_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Gaps as opportunity
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include photographs of certain type material, particularly required for the Chinese fauna and more, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize high quality photographs of type material not on PSF.
 
 ## History
 _Our old website is now a read-only resource available at [https://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
@@ -31,12 +31,12 @@ Or Funding needed to publish our latest information ... or address data gaps
 - An organization other entity
 
 ## Contributors
-|name|role|
-|----|----| 
-| Paul D. Brock | Author |  
-| Thies Büescher | Author |  
-| Ed Baker | Author |  
-| David C. Eades\* | Developer |
+|name|role|affiliation|
+|----|----|-----------|
+| Paul D. Brock | Author and Editor | The Natural History Museum, London | 
+| Thies H. Büescher | Assistant Editor | Christian-Albrechts-Universität, Kiel, Germany |
+| Ed Baker | Assistant Editor | The Natural History Museum, London, University of York |
+| David C. Eades\* | Founder of Species File Group | Illinois Natural History Survey |
 | Daniel Otte\* | Major contributor |
 
 ### Expertise by Geographic Region  
