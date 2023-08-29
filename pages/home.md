@@ -8,7 +8,48 @@ The Phasmida Species File group works to build a comprehensive source for knowle
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
-
+<table>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <img alt="Diapherodes gigantea" src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/diapherodes_gigantea.jpg"
+                    style="border-style: none;"><br>
+                <div style="text-align: center">
+                    <em>Diapherodes gigantea</em>
+                </div>
+                
+                <img alt="Pterinoxylus crassus" src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Pterinoxylus_crassus.jpg"
+                    style="border-style: none;"><br>
+                <div style="text-align: center">
+                    <em>Pterinoxylus crassus</em>
+                </div>
+            </td>
+        <tr>
+            <td rowspan="2">
+                <img alt="Phyllium giganteum" src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Phyllium_giganteum.jpg" style="border-style: none;"><br>
+                <div style="text-align: center">
+                    <em>Phyllium giganteum</em>
+                </div>
+            </td>
+            <td>
+                <img alt="Agathemera maculafulgens" src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Agathemera_maculafulgens.jpg"
+                    style="border-style: none;"><br>
+                <div style="text-align: center">
+                    <em>Agathemera maculafulgens</em>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img alt="Dryococelus australis" src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Dryococelus_australis.jpg"
+                    style="border-style: none;"><br>
+                <div style="text-align: center">
+                    <em>Dryococelus australis</em>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
