@@ -62,7 +62,7 @@ Our [About](about) page contains an [overview](about#overview) and [history](abo
 ### Welcome to our new Phasmida Species File Website
 
 _Paul D Brock, T. Büscher, E. Baker, 2023-08-15_  
-As of August 2023, we would like to welcome you to our new Plecoptera Species File website. We’re glad you’re here and look forward to hearing from you about your experiences with our new features and how you use the information you find here. 
+As of August 2023, we would like to welcome you to our new Phasmida Species File website. We’re glad you’re here and look forward to hearing from you about your experiences with our new features and how you use the information you find here. 
 
 ###  2022 Publications
 _Paul D Brock, November 2022_
