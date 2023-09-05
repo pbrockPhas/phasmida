@@ -2,13 +2,13 @@
 # See project.yml for variables.
 ---
 # About
-Building community around and gathering knowledge about the world’s stick and leaf insects."}_
+_Building community around and gathering knowledge about the world’s stick and leaf insects_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Gaps as opportunity
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include photographs of certain type material, particularly required for the Chinese fauna and more, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize high quality photographs of type material not on PSF.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include photographs of certain type material, particularly required for the Chinese fauna and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize high quality photographs of type material not on Phasmida Species File.
 
 ## History
 _Our old website is now a read-only resource available at [https://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
@@ -20,21 +20,13 @@ Members of the Orthopterists' Society are invited to participate in making this 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
 
 ### Support and funding
-_This Species File functionality and content is serviced in part by the Species File Group._
-
-Through the generous support of ... we ...
-Or Funding needed to publish our latest information ... or address data gaps
-
-
-- {Society Logo } - Society
-- Science Foundation {requires disclaimer}
-- An organization other entity
-
+_This Species File functionality and content is serviced in part by the Species File Group._  
+Through the generous support of various phasmid specialists, we add images and improve data.
 ## Contributors
 |name|role|affiliation|
 |----|----|-----------|
 | Paul D. Brock | Author and Editor | The Natural History Museum, London | 
-| Thies H. Büescher | Assistant Editor | Christian-Albrechts-Universität, Kiel, Germany |
+| Thies H. Büscher | Assistant Editor | Christian-Albrechts-Universität, Kiel, Germany |
 | Ed Baker | Assistant Editor | The Natural History Museum, London, University of York |
 | David C. Eades\* | Founder of Species File Group | Illinois Natural History Survey |
 | Daniel Otte\* | Major contributor | Academy of Natural Sciences of Philadelphia |
@@ -93,15 +85,27 @@ About our group structure, how the rules behind joining and participating are se
 ## Related resources
 
 ### References
+- [Abbreviations for Insect and Spider Collections of the World](https://hbs.bishopmuseum.org/codens/)
+- [International Commission on Zoological Nomenclature (ICZN)](https://www.iczn.org/)
+- [The Orthopterists' Society](https://www.orthsoc.org)
 
-* { Some typical reference cited format } 
+### Museums
+- [Muséum national d’Histoire naturelle de Paris type images ](https://sciencepress.mnhn.fr/sites/default/files/documents/en/liste_phasmes_mnhn.pdf)
+- [Natural History Museum, London ](https://www.nhm.ac.uk/our-science/collections/entomology-collections.html)
+- [Naturhistorisches Museum Wien](https://www.nhm-wien.ac.at/en/research/2_zoology_insects/collections/neuropteroidea_and_appended_collections)
+- [Oxford University Museum](https://www.oumnh.ox.ac.uk/insects#/)
+- [Phasmatodea.com Museum collections](http://www.phasmatodea.com/museum-collections)
 
-### Websites
-
-|Name|URL|Note|
-|----|---|----|
-| Site name | [site name]{site url} | Note |
-| Site name | [site name]{site url} | Note |
+### Other
+- [Order: Phasmida](stick and leaf insects) (http://www.biodiversityexplorer.info/insects/phasmida/index.htm)
+- [Species 2000](http://www.sp2000.org/)
+- [Stick and Leaf Insects — Order Phasmatodea](Australian stick insects) (http://brisbaneinsects.com/brisbane_hoppers/StickInsect.htm)
+- [The Phasmid Study Group](http://phasmidstudygroup.org/)
+- [The Stick Insects (Phasmida) of South Africa] (http://www.ru.ac.za/media/rhodesuniversity/resources/martin/phasmida.html)
+- [The world of stick insects](http://www.phasmatodea.com/)
+- [Tree of life, Phasmida](http://tolweb.org/tree?group=Euphasmida&contgroup=Phasmida)
+-	[A la decouverte des Phasmes & Phyllies](http://dilawata.free.fr/site/index.html)
+-	[Association for the Systematic of Stick insects and the Study of their Distribution (ASPER)](http://www.asper.org/menu/en_asper.html)
 
 ## Terms of use (Copyright guidance)
 
