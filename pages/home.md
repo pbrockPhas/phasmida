@@ -7,7 +7,7 @@ The Phasmida Species File group works to build a comprehensive source for knowle
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-_Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
+_Try searching for "Phasmatidae", "Phasma", "Phasma gigas"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
 <table>
     <tbody>
         <tr>
@@ -28,7 +28,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 </div>
             </td>
             <td>
-                <img alt="Phyllium giganteum"
+                <img alt="Pulchriphyllium giganteum"
                     src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Phyllium_giganteum.jpg"
                     style="border-style: none;">
                 <div style="text-align: center">
