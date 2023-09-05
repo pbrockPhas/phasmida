@@ -1,9 +1,9 @@
 ---
   project_name: "Phasmida Species File"
-  project_citation: "Phasmida Species File"
-  project_authors:  "Brock PD, Büscher TH, Baker E"
+  project_citation: "Phasmida Species File Online [retrieval date]"
+  project_authors:  "Brock PD, Büscher TH, Baker E."
   project_url: "https://phasmida.speciesfile.org"
   project_old_url: "http://phasmida.archive.speciesfile.org" 
   focal_taxon: "Phasmida"
-  focal_taxon_common_name: "Stick and leaf insects"
+  focal_taxon_common_name: "stick and leaf insects"
   contact_email: "pauldbrock@btinternet.com"
