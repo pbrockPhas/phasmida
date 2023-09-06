@@ -35,27 +35,27 @@ Through the generous support of various phasmid specialists, we add images and i
 
 | Continent | Country/ies | Person |  
 |:----------|:----------|:----------|  
-| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois |  
-| Africa | Southern | Paul D. Brock |  
-| America | northern | Frank Hennemann & Oskar Conle |  
-| America | southern | Frank Hennemann & Oskar Conle |  
+| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois nicolascliquennois@yahoo.fr |  
+| Africa | Southern | Paul D. Brock pauldbrock@btinternet.com |  
+| America | northern | Frank Hennemann fhhennemann@hotmail.de & Oskar Conle o_conle@hotmail.com |  
+| America | southern | Frank Hennemann fhhennemann@hotmail.de & Oskar Conle o_conle@hotmail.com |  
 | Asia, temperate | temperate | TBA |  
-|  | China | Ho Wai Chun |  
-|  | Hong Kong |  Ho Wai Chun |  
-|  | Taiwan | Yamai Shi-Fu Huang |  
+|  | China | Ho Wai Chun georgehwc@hotmail.com |  
+|  | Hong Kong |  Ho Wai Chun georgehwc@hotmail.com |  
+|  | Taiwan | Yamai Shi-Fu Huang yamai63@yahoo.com.tw |  
 | Asia, tropical | |  
-| | Borneo & Sumatra | Francis Seow-Choen |  
-| | India | Tushar Mukherjee |  
+| | Borneo & Sumatra | Francis Seow-Choen seowchoen@gmail.com |  
+| | India | Tushar Mukherjee mukherjee.tushar@gmail.com |  
 | | Indochinese region (Vietnam, Cambodia & Laos) | Joachim Bresseel |  
-| | Peninsular Malaysia & Singapore | Paul D. Brock |  
-| | Philippines | Orlando Eusebio |  
-| | Sri Lanka | Frank Hennemann |  
-| | Sulawesi  | Frank Hennemann |  
-| | Thailand & Myanmar | Thies Büscher |  
-| Australasia ||  Paul D. Brock |  
-| Europe || Paul D. Brock |  
+| | Peninsular Malaysia & Singapore | Paul D. Brock pauldbrock@btinternet.com |  
+| | Philippines | Orlando Eusebio orleusebio@yahoo.com |  
+| | Sri Lanka | Frank Hennemann fhhennemann@hotmail.de |  
+| | Sulawesi  | Frank Hennemann fhhennemann@hotmail.de |  
+| | Thailand & Myanmar | Thies Büscher thies.b@web.de |  
+| Australasia ||  Paul D. Brock pauldbrock@btinternet.com |  
+| Europe || Paul D. Brock pauldbrock@btinternet.com |  
 | Pacific ||  TBA |  
-| World Phylliidae || Royce Cumming |
+| World Phylliidae || Royce Cumming phylliidae.walkingleaf@gmail.com |
 
 _A \* denotes a past contributor, now inactive._
 
