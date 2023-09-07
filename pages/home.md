@@ -37,7 +37,7 @@ _Try searching for "Phasmatidae", "Phasma", "Phasma gigas", or start at [{Order}
             </td>
             <td>
                 <img alt="Agathemera maculafulgens"
-                    src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Agathemera_maculafulgens.jpg"
+                    src="https://sfg.taxonworks.org/s/zz3pr9"
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Agathemera maculafulgens</em>
