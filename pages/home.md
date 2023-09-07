@@ -13,7 +13,7 @@ _Try searching for "Phasmatidae", "Phasma", "Phasma gigas", or start at [{Order}
         <tr>
             <td valign="top">
                 <img alt="Diapherodes gigantea"
-                    src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/diapherodes_gigantea.jpg"
+                    src="https://sfg.taxonworks.org/s/75kh41"
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Diapherodes gigantea</em>
@@ -21,7 +21,7 @@ _Try searching for "Phasmatidae", "Phasma", "Phasma gigas", or start at [{Order}
             </td>
             <td>
                 <img alt="Pterinoxylus crassus"
-                    src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Pterinoxylus_crassus.jpg"
+                    src=https://sfg.taxonworks.org/s/lsewmx"
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Pterinoxylus crassus</em>
@@ -29,7 +29,7 @@ _Try searching for "Phasmatidae", "Phasma", "Phasma gigas", or start at [{Order}
             </td>
             <td>
                 <img alt="Pulchriphyllium giganteum"
-                    src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Phyllium_giganteum.jpg"
+                    src="https://sfg.taxonworks.org/s/opk4qj"
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Pulchriphyllium giganteum</em>
@@ -45,7 +45,7 @@ _Try searching for "Phasmatidae", "Phasma", "Phasma gigas", or start at [{Order}
             </td>
             <td>
                 <img alt="Dryococelus australis"
-                    src="http://Phasmida.archive.speciesfile.org/HomePage/Phasmida/img_logo/Dryococelus_australis.jpg"
+                    src="https://sfg.taxonworks.org/s/mw7c4m"
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Dryococelus australis</em>
