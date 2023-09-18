@@ -62,10 +62,10 @@ _A \* denotes a past contributor, now inactive._
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
 
-- **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building this Species File. { ... or join a regular support meeting. } { See also [Governance](#governance). }
-- **Provide new data or identify a problem with existing data** by contacting us (see above). { Alternate data manager email}, {Issue tracker option}.
-- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use).
-- **Something is broken** (i.e. with TaxonPages the software)? See [Software](#software), or use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
+- Enquire about joining the researchers building this Species File: <a href="mailto:{{app:contact_email}}">email</a>
+- <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker.
+- [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that offer opportunities for you and others to join to request new features, report bugs, or discuss use among other things.
+- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use-and-copyright-guidance).
 
 ### Extended data access
 _A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals._
@@ -107,7 +107,7 @@ About our group structure, how the rules behind joining and participating are se
 -	[A la decouverte des Phasmes & Phyllies](http://dilawata.free.fr/site/index.html)
 -	[Association for the Systematic of Stick insects and the Study of their Distribution (ASPER)](http://www.asper.org/menu/en_asper.html)
 
-## Terms of use (Copyright guidance)
+## Terms of use and copyright guidance
 
 <div class="flex items-center gap-2">
   <a
