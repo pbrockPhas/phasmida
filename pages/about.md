@@ -35,27 +35,27 @@ Through the generous support of various phasmid specialists, we add images and i
 
 | Continent | Country/ies | Person |  
 |:----------|:----------|:----------|  
-| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois nicolascliquennois@yahoo.fr |  
-| Africa | Southern | Paul D. Brock pauldbrock@btinternet.com |  
-| America | northern | Frank Hennemann fhhennemann@hotmail.de & Oskar Conle o_conle@hotmail.com |  
-| America | southern | Frank Hennemann fhhennemann@hotmail.de & Oskar Conle o_conle@hotmail.com |  
+| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois [email](mailto:nicolascliquennois@yahoo.fr) |  
+| Africa | Southern | Paul D. Brock [email](mailto:pauldbrock@btinternet.com) |  
+| America | northern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
+| America | southern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
 | Asia, temperate | temperate | TBA |  
-|  | China | Ho Wai Chun georgehwc@hotmail.com |  
-|  | Hong Kong |  Ho Wai Chun georgehwc@hotmail.com |  
-|  | Taiwan | Yamai Shi-Fu Huang yamai63@yahoo.com.tw |  
+|  | China | Ho Wai Chun [email](mailto:georgehwc@hotmail.com) |  
+|  | Hong Kong |  Ho Wai Chun [email](mailto:georgehwc@hotmail.com) |  
+|  | Taiwan | Yamai Shi-Fu Huang [email](mailto:yamai63@yahoo.com.tw) |  
 | Asia, tropical | |  
-| | Borneo & Sumatra | Francis Seow-Choen seowchoen@gmail.com |  
-| | India | Tushar Mukherjee mukherjee.tushar@gmail.com |  
+| | Borneo & Sumatra | Francis Seow-Choen [email](mailto:seowchoen@gmail.com) |  
+| | India | Tushar Mukherjee [email](mailto:mukherjee.tushar@gmail.com) |  
 | | Indochinese region (Vietnam, Cambodia & Laos) | Joachim Bresseel |  
-| | Peninsular Malaysia & Singapore | Paul D. Brock pauldbrock@btinternet.com |  
-| | Philippines | Orlando Eusebio orleusebio@yahoo.com |  
-| | Sri Lanka | Frank Hennemann fhhennemann@hotmail.de |  
-| | Sulawesi  | Frank Hennemann fhhennemann@hotmail.de |  
-| | Thailand & Myanmar | Thies Büscher thies.b@web.de |  
-| Australasia ||  Paul D. Brock pauldbrock@btinternet.com |  
-| Europe || Paul D. Brock pauldbrock@btinternet.com |  
+| | Peninsular Malaysia & Singapore | Paul D. Brock [email](mailto:pauldbrock@btinternet.com) |  
+| | Philippines | Orlando Eusebio [email](mailto:orleusebio@yahoo.com) |  
+| | Sri Lanka | Frank Hennemann [email](mailto:fhhennemann@hotmail.de) |  
+| | Sulawesi  | Frank Hennemann [email](mailto:fhhennemann@hotmail.de) |  
+| | Thailand & Myanmar | Thies Büscher [email](mailto:thies.b@web.de) |  
+| Australasia ||  Paul D. Brock [email](mailto:pauldbrock@btinternet.com) |  
+| Europe || Paul D. Brock [email](mailto:pauldbrock@btinternet.com) |  
 | Pacific ||  TBA |  
-| World Phylliidae || Royce Cumming phylliidae.walkingleaf@gmail.com |
+| World Phylliidae || Royce Cumming [email](mailto:phylliidae.walkingleaf@gmail.com) |
 
 _A \* denotes a past contributor, now inactive._
 
