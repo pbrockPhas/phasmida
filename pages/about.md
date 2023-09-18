@@ -35,10 +35,10 @@ Through the generous support of various phasmid specialists, we add images and i
 
 | Continent | Country/ies | Person |  
 |:----------|:----------|:----------|  
-| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois [email](mailto:nicolascliquennois@yahoo.fr) |  
+| Africa | Comores, Madagascar, Mauritius, Réunion, Rodrigues | Nicolas Cliquennois <nicolascliquennois@yahoo.fr> |  
 | Africa | Southern | Paul D. Brock [email](mailto:pauldbrock@btinternet.com) |  
-| America | northern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
-| America | southern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
+| America | northern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de) & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
+| America | southern | Frank Hennemann [email](mailto:fhhennemann@hotmail.de) & Oskar Conle [email](mailto:o_conle@hotmail.com) |  
 | Asia, temperate | temperate | TBA |  
 |  | China | Ho Wai Chun [email](mailto:georgehwc@hotmail.com) |  
 |  | Hong Kong |  Ho Wai Chun [email](mailto:georgehwc@hotmail.com) |  
