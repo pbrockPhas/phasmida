@@ -7,7 +7,7 @@ The Phasmida Species File group works to build a comprehensive source for knowle
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-Try searching for _Phasmatidae_, _Phasma_, _Phasma gigas_, or start at Order = [Phasmida]({{app:project_url}}/otus/851140/overview), Family = [Phylliidae]({{app:project_url}}/otus/852747/overview), or Genus = [Anchiale]({{app:project_url}}/otus/853195/overview).
+Try searching for _Phasmatidae_, _Phasma_, _Phasma gigas_, or start at Order = [Phasmida](/otus/851140/overview), Family = [Phylliidae](/otus/852747/overview), or Genus = [Anchiale](/otus/853195/overview).
 <table>
     <tbody>
         <tr>
