@@ -97,11 +97,11 @@ About our group structure, how the rules behind joining and participating are se
 - [Phasmatodea.com Museum collections](http://www.phasmatodea.com/museum-collections)
 
 ### Other
-- [Order: Phasmida](stick and leaf insects) (http://www.biodiversityexplorer.info/insects/phasmida/index.htm)
+- [Order Phasmida (stick and leaf insects)](http://www.biodiversityexplorer.info/insects/phasmida/index.htm)
 - [Species 2000](http://www.sp2000.org/)
-- [Stick and Leaf Insects — Order Phasmatodea](Australian stick insects) (http://brisbaneinsects.com/brisbane_hoppers/StickInsect.htm)
+- [Stick and Leaf Insects — Order Phasmatodea (Australian stick insects)](http://brisbaneinsects.com/brisbane_hoppers/StickInsect.htm)
 - [The Phasmid Study Group](http://phasmidstudygroup.org/)
-- [The Stick Insects (Phasmida) of South Africa] (http://www.ru.ac.za/media/rhodesuniversity/resources/martin/phasmida.html)
+- [The Stick Insects (Phasmida) of South Africa](http://www.ru.ac.za/media/rhodesuniversity/resources/martin/phasmida.html)
 - [The world of stick insects](http://www.phasmatodea.com/)
 - [Tree of life, Phasmida](http://tolweb.org/tree?group=Euphasmida&contgroup=Phasmida)
 -	[A la decouverte des Phasmes & Phyllies](http://dilawata.free.fr/site/index.html)
