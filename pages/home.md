@@ -56,7 +56,7 @@ Try searching for _Phasmatidae_, _Phasma_, _Phasma gigas_, or start at Order = [
 </table>
 
 ## Discover more
-Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
+Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity), and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
 ### Welcome to our new Phasmida Species File Website
