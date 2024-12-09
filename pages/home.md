@@ -78,10 +78,10 @@ Our [About](about) page contains an [overview](about#overview) and [history](abo
 _Paul D Brock, T H Büscher, E Baker, 2023-08-15_  
 As of August 2023, we would like to welcome you to our new Phasmida Species File website. We’re glad you’re here and look forward to hearing from you about your experiences with our new features and how you use the information you find here.
 
-### 2022 Publications
+### Publications
 
-_Paul D Brock, November 2022_
+_Paul D Brock_
 
 - Book published November 2022: Brock & Büscher, Stick and leaf-insects of the world, Phasmids.
 - NAP Editions (includes world checklist of species), see https://www.napeditions.com/en/71-stick-and-leaf-insects-of-the-world.html
-- Phasmid Studies Vol 21 was published on 31 Dec 2022 and papers have been uploaded.
+  
