@@ -15,12 +15,12 @@ Try searching for _Phasmatidae_, _Phasma_, _Phasma gigas_, or start at Order = [
     <tr>
       <td valign="top">
         <img 
-          alt="Diapherodes gigantea" 
+          alt="Diapherodes giganteus" 
           src="https://sfg.taxonworks.org/s/75kh41" 
           class="border-none"
         >
         <div class="text-center">
-          <em>Diapherodes gigantea</em>
+          <em>Diapherodes giganteus</em>
         </div>
       </td>
       <td>
